@@ -9,7 +9,7 @@
 * CRA
 
 Link API: https://github.com/r-spacex/SpaceX-API/tree/master/docs/rockets/v4 <br>
-Link site: https://spacex-rockets-seven.vercel.app/
+Link site da aplicação: https://spacex-rockets-seven.vercel.app/
 
 ## Available Scripts
 
