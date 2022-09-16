@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+### Uma aplicação que mostra em tela informações sobre os Rockets da SpaceX, através da API disponibilizada pela própria empresa. Nome, altura e diametro são algumas das informações contidas na aplicação. Na parte de fotos, tem um carrousel, bem dinamico e interativo. E caso o cliente queira saber mais sobre o rocket, tem a opção de ver mais informações no site wikipédia.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Ferramentas utilizadas
+* ReactJS
+* Bootstrap
+* Postman
+* API SpaceX
+* Vercel
+* CRA
+
+Link API: https://github.com/r-spacex/SpaceX-API/tree/master/docs/rockets/v4 <br>
+Link site: https://spacex-rockets-seven.vercel.app/
 
 ## Available Scripts
 
